@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Aoi&#39;s Blog</title>
+		<link>https://alizestl.github.io/en/posts/</link>
+		<description>Recent content in Posts on Aoi&#39;s Blog</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>CHANGE ME</copyright>
+		<lastBuildDate>Wed, 07 Feb 2024 22:05:26 +0800</lastBuildDate>
+		<atom:link href="https://alizestl.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Test</title>
+			<link>https://alizestl.github.io/en/posts/test-3/</link>
+			<pubDate>Wed, 07 Feb 2024 22:05:26 +0800</pubDate>
+			
+			<guid>https://alizestl.github.io/en/posts/test-3/</guid>
+			<description>hello hugo!</description>
+			<content type="html"><![CDATA[<p>hello hugo!</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
